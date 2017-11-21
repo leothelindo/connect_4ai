@@ -1,0 +1,7 @@
+Names:
+Leonardo Lindo
+Jordan Seay
+Nam Tran
+
+Our project goal is to create the most epic game
+of Connect 4 known to man and 3 eyed alien.
